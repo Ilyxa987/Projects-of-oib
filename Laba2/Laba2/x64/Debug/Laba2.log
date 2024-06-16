@@ -1,0 +1,10 @@
+﻿  Source.c
+c:\users\ilya\projects of oib\laba2\laba2\source.c(22): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+c:\users\ilya\projects of oib\laba2\laba2\source.c(55): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+c:\users\ilya\projects of oib\laba2\laba2\source.c(56): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+c:\users\ilya\projects of oib\laba2\laba2\source.c(154): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+c:\users\ilya\projects of oib\laba2\laba2\source.c(181): warning C4133: функция: несовместимые типы - из "char *" в "LPWSTR"
+c:\users\ilya\projects of oib\laba2\laba2\source.c(216): warning C4133: функция: несовместимые типы - из "char *" в "LPWSTR"
+c:\users\ilya\projects of oib\laba2\laba2\source.c(293): warning C4133: =: несовместимые типы - из "LPCH" в "LPWCH"
+c:\users\ilya\projects of oib\laba2\laba2\source.c(303): warning C4133: функция: несовместимые типы - из "char *" в "LPWSTR"
+  Laba2.vcxproj -> C:\Users\Ilya\Projects of oib\Laba2\x64\Debug\Laba2.exe

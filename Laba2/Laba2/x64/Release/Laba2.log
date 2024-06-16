@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\Ilya\Projects of oib\Laba2\Laba2\Source.c(55,50): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba2\Laba2\Source.c(56,51): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba2\Laba2\Source.c(216,32): warning C4133: функция: несовместимые типы - из "char *" в "LPWSTR"
+C:\Users\Ilya\Projects of oib\Laba2\Laba2\Source.c(293,48): warning C4133: =: несовместимые типы - из "LPCH" в "LPWCH"
+C:\Users\Ilya\Projects of oib\Laba2\Laba2\Source.c(296,34): warning C4133: функция: несовместимые типы - из "EXPLICIT_ACCESS *" в "PEXPLICIT_ACCESS_A"
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Laba2.vcxproj -> C:\Users\Ilya\Projects of oib\Laba2\x64\Release\Laba2.exe

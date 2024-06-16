@@ -1,0 +1,19 @@
+﻿  Source.c
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(32,51): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(33,52): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(12,7): warning C4101: sids: неиспользованная локальная переменная
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(133,52): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(134,53): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(191,40): warning C4133: =: несовместимые типы - из "LPCH" в "LPWCH"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(194,34): warning C4133: функция: несовместимые типы - из "EXPLICIT_ACCESS *" в "PEXPLICIT_ACCESS_A"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(248,52): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(249,53): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(320,52): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(321,53): warning C4133: =: несовместимые типы - из "TCHAR *" в "LPSTR"
+  Создание кода
+  3 of 14 functions (21.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+C:\Users\Ilya\Projects of oib\Laba3\Laba3\Source.c(161): warning C4715: ReadACE: значение возвращается не при всех путях выполнения
+  Создание кода завершено
+  Laba3.vcxproj -> C:\Users\Ilya\Projects of oib\Laba3\x64\Release\Laba3.exe
